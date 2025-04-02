@@ -5,7 +5,7 @@
 
 Project Maradona: Faster, leaner, smarter
 ===========================
-### real-time virtual coach assistant to analyze all important aspects of a soccer game with 1 camera
+### realtime virtual coach to analyze all important aspects of a soccer game with 1 camera
 <div align="left">
 
 ## 
