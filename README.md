@@ -15,7 +15,8 @@ Maradona works on a multi-modal structure, utilizing a combination of algorithms
 ## 
 <div align="center">
 Maradona is produced by DeepField Research. 
-Will Chen
-Gordon Huang
+
+###### Will Chen
+###### Gordon Huang
   
 ![DF Research Logo – Light](https://github.com/user-attachments/assets/4b31ed76-920b-4e30-bad8-ce4bea106a65)
