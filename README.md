@@ -1,7 +1,6 @@
-![Maradona Logo Big – 1](https://github.com/user-attachments/assets/9448a68b-a62b-4327-a330-3ed972859e2a)
-
-
 <div align="center">
+
+![maradona](https://github.com/user-attachments/assets/cb756599-017e-452f-911c-761b751746bf)
 
 Project Maradona: Faster, leaner, smarter
 =========================================
