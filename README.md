@@ -1,6 +1,6 @@
 <div align="center">
 
-![maradona](https://github.com/user-attachments/assets/cb756599-017e-452f-911c-761b751746bf)
+![maradona](https://github.com/user-attachments/assets/42df8955-1842-4086-afab-e360a19a19c3)
 
 Project Maradona: Faster, leaner, smarter
 =========================================
