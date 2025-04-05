@@ -15,10 +15,11 @@ Maradona works on a multi-modal structure, utilizing a combination of algorithms
 
 ## Technical Specifications
 - Language: Java 21, Go 1.24
-- JVM: GraalVM CE 21
-  > We're using Graal's compiler and runtime for better performance. OpenJ9 is also a considerable choice. 
-- Garbage Collector: G1
-  > We're using G1 because of our small heap size and predictable garbage generation. 
+- Java
+  - JVM: GraalVM CE 21
+    > We're using Graal's compiler and runtime for better performance. OpenJ9 is also a considerable choice. 
+  - Garbage Collector: G1
+    > We're using G1 because of our small heap size and predictable garbage generation. 
 - OpenCV:
 - TensorFlow: 
 
